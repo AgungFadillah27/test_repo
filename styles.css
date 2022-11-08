@@ -1,0 +1,8 @@
+body {
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+}
+form{
+    margin-top: 100px;
+}
