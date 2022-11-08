@@ -1,0 +1,20 @@
+body {
+    height:max-content;
+    background-color: aqua;
+}
+
+header {
+    height: fit-content;
+    background-color: beige;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
