@@ -52,4 +52,7 @@ h4 {
 }
 img {
     border-radius: 12px;
+    width:200px;
+    height: 250px;
+    object-fit: contain;
 }
