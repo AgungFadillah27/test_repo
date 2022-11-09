@@ -51,8 +51,15 @@ h4 {
     color: red;
 }
 img {
-    border-radius: 12px;
     width:200px;
     height: 250px;
     object-fit: contain;
+}
+button{
+    border-radius: 12px;
+}
+
+.harga {
+    display: flex;
+    justify-content: center;
 }
