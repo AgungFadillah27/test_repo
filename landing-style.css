@@ -27,7 +27,13 @@ li {
 a {
     text-decoration: none;
     color: black;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
 }
+
 
 .main-section {
     background-color: black;
